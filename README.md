@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:212225045002
-# Name:shaikhazeedmastan
-# Date:28-07-2026
+# Reg No:212225040309
+# Name: pragadeesh M
+# Date:28-10-2026
 
 
 # AIM:
